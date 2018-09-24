@@ -13,6 +13,6 @@ cube.cpp: FEM Simulation
 
 cylinder.geo: GMSH file. Build geometry and mesh 
 
-job.script.iter_00.sh: Fist iteration. 
+job.script.iter_01.sh, job.script.iter_02.sh, ... : Fist iteration, second iteration, etc 
 
 main.py: Sumarize commands used on terminal
